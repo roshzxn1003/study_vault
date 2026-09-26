@@ -50,3 +50,8 @@ app.*.map.json
 # Environment / API keys
 .env
 .env.*
+
+# Local downloads and secrets
+*.deb
+client_secret*.json
+
